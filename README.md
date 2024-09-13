@@ -2,6 +2,8 @@
 
 RAG-narrative-parser is a Next.js application that uses Retrieval-Augmented Generation (RAG) to analyze and extract character information from uploaded text files. It provides a user-friendly interface for uploading books or similar content, extracting character details, and displaying the results in a structured format.
 
+![RAG-narrative-parser Screenshot](./screenshot.png)
+
 ## Features
 
 - File upload for .txt files containing narrative content

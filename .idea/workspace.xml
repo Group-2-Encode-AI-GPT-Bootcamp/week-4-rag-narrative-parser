@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c98e592-99e5-4756-a825-8e52a452f6c2" name="Changes" comment="create RAG narrative parser and export characters.">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/SampleText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/Shrek.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/essay.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/retrieveandquery.ts" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/retrieveandquery.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +30,12 @@
     &quot;assignee&quot;: &quot;ilhamfadheel&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/run-llama/ts-playground.git&quot;,
-    &quot;accountId&quot;: &quot;2a5550a4-69d4-40d4-80a8-a99b669f97a1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ilhamfadheel/rag-narrative-parser.git",
+    "accountId": "2a5550a4-69d4-40d4-80a8-a99b669f97a1"
   }
-}</component>
+}]]></component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
   </component>
@@ -124,8 +118,17 @@
       <updated>1726203734421</updated>
       <workItem from="1726203735856" duration="862000" />
       <workItem from="1726207494453" duration="59000" />
-      <workItem from="1726207571453" duration="5580000" />
+      <workItem from="1726207571453" duration="6767000" />
     </task>
+    <task id="LOCAL-00001" summary="create RAG narrative parser and export characters.">
+      <option name="closed" value="true" />
+      <created>1726221356921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726221356921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
